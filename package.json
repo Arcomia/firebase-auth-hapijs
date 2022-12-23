@@ -1,0 +1,15 @@
+{
+  "name": "firebase-auth-hapijs",
+  "version": "1.0.0",
+  "description": "Hapi.js auth strategy using Firebase access tokens",
+  "main": "lib/index.js",
+  "repository": "https://github.com/arcomia/firebase-auth-hapijs.git",
+  "author": "Marvin Slegt <marvin@arcomia.nl>",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "@hapi/boom": "^10.0.0",
+    "firebase-admin": "^11.4.0",
+    "@hapi/hapi": "^21.1.0"
+  }
+}
